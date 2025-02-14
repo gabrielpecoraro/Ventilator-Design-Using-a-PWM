@@ -17,8 +17,12 @@ To work with this project, the following software tools are needed:
 - **Multisim** (for additional circuit analysis)
 - **Oscilloscope & Function Generator** (for practical validation)
 
+<img src="https://imgur.com/a/AYVot9U" height="80%" width="80%" alt="Final Montage"/>
+<br />
+
+
 ## Authors
-- **Leticia Cordeiro** UFPR (Brazil)/ ENSEIRB-MATEMeCA (France)
+- **Leticia Cordeiro** UFPR (Brazil)/ ENSEIRB-MATEMECA (France)
 - **Gabriel Pecoraro** Illinois Institute of Technology (USA) / ENSEIRB-MATEMECA (France)
 
 **Supervisor:** Samir Lagoug
