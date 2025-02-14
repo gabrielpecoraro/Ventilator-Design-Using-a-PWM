@@ -18,7 +18,7 @@ To work with this project, the following software tools are needed:
 - **Oscilloscope & Function Generator** (for practical validation)
 
 ## Authors
-- **Leticia Cordeiro** UPFR (Brazil)/ ENSEIRB-MATEMeCA (France)
+- **Leticia Cordeiro** UFPR (Brazil)/ ENSEIRB-MATEMeCA (France)
 - **Gabriel Pecoraro** Illinois Institute of Technology (USA) / ENSEIRB-MATEMECA (France)
 
 **Supervisor:** Samir Lagoug
