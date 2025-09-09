@@ -4,7 +4,7 @@
 CORDEIRO Leticia/PECORARO Gabriel 2023
 
 ## Project Overview
-This project focuses on designing and implementing an **analog ventilator speed control system** using **Pulse Width Modulation (PWM)** and **analog electronics components**. The goal was to develop a working ventilator with speed control by creating a **custom PWM circuit**, an **integrator**, and an **amplifier** for precise motor regulation. A printed circuit board (PCB) was also designed and tested.
+This project focuses on designing and implementing an **analog ventilator speed control system** using **Pulse Width Modulation (PWM)** and **analog electronics components**. The goal was to develop a working ventilator with speed control by creating a **custom PWM circuit**, an **integrator**, and an **amplifier** for precise motor regulation. A printed circuit board (PCB) was also designed and tested. Please look at the PDF report for further informations.
 
 ## Features
 - **Custom PWM circuit** to control motor speed
@@ -20,8 +20,6 @@ To work with this project, the following software tools are needed:
 - **Multisim** (for additional circuit analysis)
 - **Oscilloscope & Function Generator** (for practical validation)
 
-<img src="https://imgur.com/a/AYVot9U" height="80%" width="80%" alt="Final Montage"/>
-<br />
 
 
 ## Authors
